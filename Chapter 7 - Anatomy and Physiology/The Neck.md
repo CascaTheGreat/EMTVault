@@ -1,0 +1,3 @@
+The neck is supported by the cervical spine. The upper esophagus and trachea are midline in the neck. The adam's apple is the upper **thyroid cartilage**. The lower part is the **cricoid cartilage**, and between them is the **cricothyroid membrane** which has a soft depression. This sheet of fascia joins the two cartilages.
+
+Below the larynx, several firm ridges form the cartilage rings of the trachea, connecting the larynx to the lungs. Lateral to the carotid and jugular are the sternocleidomastoid muscles which let the head move. They run from the cranium to the sternum.

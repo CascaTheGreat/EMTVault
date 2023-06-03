@@ -1,0 +1,1 @@
+Nonconsensual confinement for a prolonged time. Competent patients may demand an end to transit at any time, best bet is to always get [Informed Consent](Consent#Informed Consent).

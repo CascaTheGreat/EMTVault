@@ -1,0 +1,1 @@
+Legal action between a private person or entity against another. The **plaintiff** sues the **defendant**, asking for [[Damages]] over a **tort** (the act that caused harm).

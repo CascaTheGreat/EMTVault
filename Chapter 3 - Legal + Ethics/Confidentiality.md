@@ -1,0 +1,1 @@
+[[HIPAA]] defines a patient's right to **confidentiality**. Identifiable info like history, findings, treatment, and **PHI (private health information)** cannot be shared. PT records may be released under subpoena or within written PT consent, though they must be [[Competent]]. Under automatic release, you can share PHI with a provider to continue a patient's care.

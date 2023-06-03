@@ -1,0 +1,1 @@
+A code of conduct defined by your conscious and personal factors.

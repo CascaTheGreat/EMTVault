@@ -1,0 +1,1 @@
+**Documentation** is the recorded portion of an interaction. A **PCR** is a common piece of documentation.

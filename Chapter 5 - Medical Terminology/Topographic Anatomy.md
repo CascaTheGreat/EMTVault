@@ -1,0 +1,1 @@
+**Topographic anatomy** is a description of internal body systems based on superficial landmarks. All topographic anatomical references are made to a patient in the [[Anatomic Position]].

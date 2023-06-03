@@ -1,0 +1,1 @@
+A **Do Not Resuscitate** order outlines a patient's request to not be resuscitated in the event of [[Cardiac Arrest]] or [[Respiratory Arrest]].  A DNR (or DNAR) must clearly state the PT's medical conditions, bear their signature and a physician's signature, and must be in date. You are still required to care for a PT with a DNR if they do not meet these conditions.

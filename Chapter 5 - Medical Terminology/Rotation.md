@@ -1,0 +1,1 @@
+**Internal rotation** occurs when the frontal surface of an extremity turns towards the midline (thumbs close to midline). **External rotation** is the opposite.

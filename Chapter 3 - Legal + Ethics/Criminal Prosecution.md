@@ -1,0 +1,1 @@
+Legal action from the government targeted against a defendant. The most common criminal laws for EMS providers are [[Assault]], [[Battery]], [[Kidnapping]], and [[False Imprisonment]].

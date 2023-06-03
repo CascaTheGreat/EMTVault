@@ -1,0 +1,1 @@
+Increased venous return stretches ventricles, increasing contractility, a relationship known as the **Starling law**. This works to keep the percentage amount of blood leaving the heart relatively constant despite return rate.

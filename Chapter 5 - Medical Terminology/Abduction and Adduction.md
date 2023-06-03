@@ -1,0 +1,1 @@
+**Abduction** moves an extremity away from the midline, while **adduction** moves an extremity towards it.

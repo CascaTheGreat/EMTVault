@@ -1,0 +1,1 @@
+A limit on the time that can pass before you can no longer be sued for an incident. This period can vary based on the state and the patient.

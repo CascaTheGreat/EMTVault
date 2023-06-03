@@ -1,0 +1,1 @@
+**Restraint** is the act of physically subduing a patient to prevent the harm of the patient or providers. Only do on people who need care but are violent. Medical control permission must be obtained before applying restraints, and can incur [[Criminal Prosecution]] or a [[Civil Suit]]. Never restrain a patient in a prone position or remove them in transit.

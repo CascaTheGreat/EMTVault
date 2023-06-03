@@ -1,0 +1,1 @@
+For backboard/stretchers, diamond carry sees four providers carry PT. One on each side of torso, one at head and one at foot.

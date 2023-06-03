@@ -1,0 +1,1 @@
+Hold your back upright, legs shoulder width apart, squat and lift with legs.

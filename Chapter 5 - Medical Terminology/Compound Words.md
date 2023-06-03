@@ -1,0 +1,1 @@
+**Compound Words** contain more than one root within them. Osteoarthritis is a compound word.

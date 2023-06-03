@@ -1,0 +1,1 @@
+Abducting and carrying away of someone by force. Patients transported against their will can claim kidnapping if they were [[Competent]]. [[Criminal Prosecution]] is rare as EMS are usually acting in good faith to provide care. [Civil Suits](Civil Suit) are far more likely as part of a tort of [[False Imprisonment]].

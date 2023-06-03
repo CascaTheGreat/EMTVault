@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "90d26c774f87f6ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "9560e82ac63b0790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c36897f844a5401",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 8 - Pathophysiology/Cellular Injury.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45e8a9ac3d45b0e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "39847dd11bacda7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b48c8f8b3d959b79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c53dda1b78c836ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aedfb04a1b82e4b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "417fe03a4a43c24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f1cc9379bf56fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "805ba09958903989",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 8 - Pathophysiology/Cellular Injury.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb43f52c00172751",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 8 - Pathophysiology/Cellular Injury.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd18cc6ff84c91a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e8eb56379adb4fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 8 - Pathophysiology/Cellular Injury.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9c36897f844a5401",
+  "lastOpenFiles": [
+    "Chapter 8 - Pathophysiology/Acid-Base Balance (patho).md",
+    "Chapter 8 - Pathophysiology/Cellular Injury.md",
+    "Chapter 8 - Pathophysiology/Pathophysiology.md",
+    "Chapter 7 - Anatomy and Physiology/Acid-Base Balance (anatomy).md",
+    "Chapter 8 - Pathophysiology/Electrolyte Imbalances.md",
+    "Chapter 8 - Pathophysiology/Fluid Balance.md",
+    "Chapter 7 - Anatomy and Physiology/Fluid Balance.md",
+    "Chapter 7 - Anatomy and Physiology/Organ Systems.md",
+    "Chapter 8 - Pathophysiology/Adaptations in Cells.md",
+    "Chapter 7 - Anatomy and Physiology/Reproductive System.md",
+    "Chapter 8 - Pathophysiology",
+    "Chapter 7 - Anatomy and Physiology/Pasted image 20230602150448.jpg",
+    "Chapter 7 - Anatomy and Physiology/Urinary System.md",
+    "Chapter 7 - Anatomy and Physiology/Endocrine System.md",
+    "Nervous.md",
+    "Chapter 7 - Anatomy and Physiology/Nervous System.md",
+    "Chapter 7 - Anatomy and Physiology/Retroperitoneal Cavity.md",
+    "Chapter 7 - Anatomy and Physiology/Digestive System.md",
+    "Chapter 7 - Anatomy and Physiology/Abdomen.md",
+    "Chapter 7 - Anatomy and Physiology/Pasted image 20230602181050.jpg",
+    "Chapter 7 - Anatomy and Physiology/Pasted image 20230602180617.png",
+    "abdominal-organs-1296x800-header-1024x638.webp",
+    "Chapter 7 - Anatomy and Physiology/Lymphatic System.md",
+    "Chapter 7 - Anatomy and Physiology/Integumentary System.md",
+    "Chapter 7 - Anatomy and Physiology/21823-eye-anatomy.webp",
+    "Chapter 7 - Anatomy and Physiology/Appendicular Skeleton.md",
+    "Chapter 7 - Anatomy and Physiology/Circulatory System.md",
+    "Chapter 7 - Anatomy and Physiology/Blood.md",
+    "Chapter 7 - Anatomy and Physiology/Human-circulatory-system.webp",
+    "Circulatory_System_en.svg",
+    "Chapter 7 - Anatomy and Physiology/Starling Law.md",
+    "Chapter 7 - Anatomy and Physiology/Cross-section-human-heart.webp",
+    "Pasted image 20230602150510.png",
+    "Chapter 7 - Anatomy and Physiology/Pasted image 20230602122328.png",
+    "Muscular System.md",
+    "Chapter 7 - Anatomy and Physiology/Respiratory System.md",
+    "Chapter 7 - Anatomy and Physiology/Nervous System Breathing Control.md",
+    "Math",
+    "Chapter 7 - Anatomy and Physiology",
+    "Chapter 6 - Moving and Lifting Patients",
+    "Chapter 5 - Medical Terminology",
+    "Chapter 4 - Communications and Documentation",
+    "Untitled.canvas",
+    "Chapter 3 - Legal + Ethics",
+    "Chapter 1 - EMS Systems"
+  ]
+}

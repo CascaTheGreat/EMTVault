@@ -1,0 +1,1 @@
+The **appendicular skeleton** includes the [[Shoulder]], [[Pelvic Girdle]], [[Upper Extremities]] and [[Lower Extremities]].

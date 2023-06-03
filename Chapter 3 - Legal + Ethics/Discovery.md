@@ -1,0 +1,1 @@
+During a [[Civil Suit]], **Discovery** is the phase of a legal case where information is collected by both sides. Discovery may include **Interrogatories** (written questions) and **depositions** (statements made under oath).

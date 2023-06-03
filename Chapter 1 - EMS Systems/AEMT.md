@@ -1,0 +1,1 @@
+An **Advanced EMT** provides some ALS functions in emergency response.

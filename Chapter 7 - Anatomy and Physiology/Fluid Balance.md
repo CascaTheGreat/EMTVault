@@ -1,0 +1,3 @@
+The body is between 50% to 70% water by weight. Newborns may be up to 80% water. Body fluid has two components: **intracellular and extracellular fluid**. ICF is 40-45% of the weight and 75% of all fluid. ECF is 15-20% of body weight. **Intravascular fluid** or **plasma** is the fluid of blood, and is 4.5% of the body weight. **Interstitial fluid** is located between cells and is about 10.5% of the weight.
+
+**Fluid balance** is the process of maintaining homeostasis - the balance of pH, fluids, nutrition. Fluid regulation is controlled by the kidneys and ADH through thirst and urination.

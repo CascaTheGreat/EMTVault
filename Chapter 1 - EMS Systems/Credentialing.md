@@ -1,0 +1,1 @@
+After completing [[Credentialing]] and obtaining [[Licensure]], an [[AEMT]] must complete **credentialing**. Credentialing is the process of verify a provider's qualifications. Credentialing may be a local or regional process, and is typically handled by a medical director.

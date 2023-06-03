@@ -1,0 +1,1 @@
+All [AEMTs](AEMT) are mandatory reporters. Mandatory reporters are obligated to report neglect, abuse, domestic violence, rape, animal bites, some diseases, or injuries of suspicious origin.

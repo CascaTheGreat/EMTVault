@@ -1,0 +1,1 @@
+Combining forms of words modify their a root word, prefix, or suffix with another vowel (usually 'o') so it is easier to pronounce.

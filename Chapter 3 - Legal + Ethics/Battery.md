@@ -1,0 +1,1 @@
+Unlawful (nonconsensual) physical contact with another person. Almost any medical treatment without patient consent can be considered [[Assault]] and/or Battery. In a [[Criminal Prosecution]] requires malintent, but only requires nonconsent in a [[Civil Suit]].

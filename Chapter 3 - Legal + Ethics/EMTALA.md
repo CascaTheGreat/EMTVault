@@ -1,0 +1,2 @@
+The **Emergency Medical Treatment and Active Labor Act** was enacted in 1986 to combat patient dumping (when providers deny stabilizing treatment or improperly transfer unstable patients). This practice was due to **economic triage**, where treatment decisions were made based on patient ability to pay.
+EMTALA guarantees a medical screening exam and stabilizing treatment in any patient in the ER.

@@ -1,0 +1,3 @@
+The **shoulder girdle** attaches the upper extremity to the body at the glenohumeral joint. The major components are made of the **scapula** (shoulder blade) and the **clavicle**. The scapula is a flat bone. The raised top of the scapula is the **acromion process**, protecting the joint and various shoulder muscles.
+
+The **shoulder joint** is a ball-and socket joint that articulates the humerus with the **glenoid fossa**. A fibrocartilage ring surrounds the glenoid rim to attach to the capsule. A **bursa** is a pad like sac between a tendon and bone that contains fluid to reduce friction.

@@ -1,0 +1,1 @@
+A form of [[Negligence]], abandonment occurs when the provider ceases treatment without consent. Upon starting treatment, you have a duty of care until someone with higher or equal training assumes care. Transferring patients to the ED without a PCR may also be considered abandonment. Obtain a signature on the PCR from the receiving nurse.

@@ -1,0 +1,3 @@
+The thorax or chest is made of T1-T12 and 12 pairs of ribs. Midline is the sternum, at the apex of which the trachea enters the chest. The upper sternum is the **manubrium**, the rest is called the body, except for a small cartilage like tip at the bottom called the **xiphoid process**.
+
+Within the thoracic cage is the lungs, heart, and great vessels. The hear is behind the sternum going from rib 2 to 6 anterior and 5-8 posterior. Just below the manubrium is the arch of the **aorta** and the **pulmonary artery** exit the heart. The **esophagus** lies behind the great vessels. Space not occupied by them or the heart is taken up by the lungs.

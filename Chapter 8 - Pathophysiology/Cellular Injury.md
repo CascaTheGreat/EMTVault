@@ -1,0 +1,1 @@
+In [[Pathophysiology]], **cellular injury** is the manifestation of damage to cells.

@@ -1,0 +1,1 @@
+**Flexion** is the movement of a distal point towards the trunk in the [[Anatomic Position]] is called **flexion**.

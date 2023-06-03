@@ -1,0 +1,1 @@
+**Extension** is the return of a body part from a [flexed position](Flexion). In the [[Anatomic Position]], all extremities are in extension.

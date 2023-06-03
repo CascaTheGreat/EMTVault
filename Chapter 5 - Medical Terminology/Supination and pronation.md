@@ -1,0 +1,1 @@
+**Supination** is when palms are turned towards the sky, **pronation** is when they're towards the ground.

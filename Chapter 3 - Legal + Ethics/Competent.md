@@ -1,0 +1,1 @@
+A patient of sound mind who can reasonably be construed as alert and oriented is competent, and can make treatment/transport decisions. A competent patient must have **decision-making capacity** (ability to understand the information and the capacity to process it and make a decision). Patients who have expressed suicidal ideation are generally not considered competent.

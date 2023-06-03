@@ -1,0 +1,1 @@
+Defamation is knowingly making false statements that damage reputation. It is a tort for a [[Civil Suit]]. Defamation takes two forms: **Libel**(written) and **Slander**(spoken). Avoid terms that come off as judgmental in PCRs or in communication.

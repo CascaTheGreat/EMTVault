@@ -1,0 +1,1 @@
+How a reasonable person with your training and experience would act in the context. The standard can be defined by literature, customs, [[Protocols]], and the law. Violating standards set by the law may be a form of [[Negligence]].

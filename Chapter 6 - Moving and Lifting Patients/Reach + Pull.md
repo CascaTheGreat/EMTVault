@@ -1,0 +1,1 @@
+Tighten abd muscles, kneel if PT on ground. Get 15-20 inches from PT, pull arms to you, move another 15-20 inches and repeat. Don't move yourself and PT at the same time.

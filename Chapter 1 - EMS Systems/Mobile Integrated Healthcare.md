@@ -1,0 +1,1 @@
+MIH is a system of delivering healthcare using prehospital resources, outlined in the [[EMS Agenda 2050]]. MIH describes a model where health care professionals are embedded within a community and provide services. **Community Paramedicine** is an aspect of MIH where paramedics receive further training to perform PCP responsibilities within a community.

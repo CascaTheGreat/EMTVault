@@ -1,0 +1,1 @@
+The study of altered functioning in the presence of disease.

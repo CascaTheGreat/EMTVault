@@ -1,0 +1,1 @@
+Patients have the ultimate choice over their care. Their right to choose their care is **patient autonomy**. Under this, patients can make choices that are medically unsound and can endanger their life.

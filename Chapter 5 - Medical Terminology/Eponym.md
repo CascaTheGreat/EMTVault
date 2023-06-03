@@ -1,0 +1,1 @@
+An **eponym** is a name based on someone credited with its discovery or use. Examples include the Foley catheter, Apgar score, or Cesarean section.

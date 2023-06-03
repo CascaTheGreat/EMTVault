@@ -1,0 +1,1 @@
+A **homonym** is a word with similar or identical pronunciation, but different meanings.

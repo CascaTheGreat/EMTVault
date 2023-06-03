@@ -1,0 +1,1 @@
+An **Advance Directive** (also **health care directive**) is a written document that describes consent to certain medical treatment. A [[DNR]] is a type of advance directive. Some patients may appoint **durable power of attorney** or a **health care proxy** to make healthcare decisions for them.

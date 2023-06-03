@@ -1,0 +1,1 @@
+The **axial skeleton** is the core bit of [[Skull]], spine, and thoracic cage. upon which the appendicular skeleton connects.

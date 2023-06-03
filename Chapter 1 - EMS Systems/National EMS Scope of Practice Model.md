@@ -1,0 +1,1 @@
+Developed by the [[NHTSA]], this document outlines federal guidelines for minimum competencies from EMS providers. Ultimately, states regulate providers operations, which are then further controlled by medical directors.

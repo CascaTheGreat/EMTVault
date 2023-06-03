@@ -1,0 +1,1 @@
+The **National Highway Traffic Safety Administration** is a division of the [[DOT]] that oversees EMS curriculum.

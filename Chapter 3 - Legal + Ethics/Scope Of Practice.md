@@ -1,0 +1,1 @@
+Defined by state law, the **scope of practice** outlines the boundaries for the care you can provide. They are further defined by [[Protocols]] and **standing orders** set by medical directors.

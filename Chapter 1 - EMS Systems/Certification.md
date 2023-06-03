@@ -1,0 +1,1 @@
+**Certification** is the process to ensure all providers have the same basic level of knowledge and skill. Managed by NREMT.
