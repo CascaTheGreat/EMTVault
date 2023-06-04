@@ -1,0 +1,13 @@
+As an [[AEMT]], you can give:
+ - [[Oxygen]]
+ - [[Oral Glucose]]
+ - [[Glucagon]]
+ - IV [[Dextrose]]
+ - [[IV Fluids]]
+ - [[Epinephrine]]
+ - MDI meds ([[Albuterol]])
+ - Nebulized meds (albuterol)
+ - [[Nitroglycerin]]
+ - [[Nitrous Oxide]]
+ - [[Naloxone]]
+ - [[Aspirin]]

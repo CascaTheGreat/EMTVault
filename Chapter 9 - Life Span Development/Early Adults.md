@@ -1,0 +1,1 @@
+19-40, BPM of 70ish, resp of 12-20, BP 90-140

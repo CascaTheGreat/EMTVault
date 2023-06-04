@@ -1,0 +1,1 @@
+How a medication produces the response we want. **Therapeutic index** is the amount after concentration falls below min before elimination. **Therapeutic index** is the ratio of a lethal dose for half the population and effective for the other half. The **therapeutic threshold** is the minimum effective concentration.

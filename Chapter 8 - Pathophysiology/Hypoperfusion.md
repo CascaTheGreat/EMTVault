@@ -1,0 +1,3 @@
+In [[Pathophysiology]], **Hypoperfusion** is when the body doesn't have enough oxygen enriched blood getting everywhere. Body responds by releasing [[Endocrine System|catecholamines]], increasing cardiac contraction, pulse, and inducing vasoconstriction. Antidiuretics are released, retaining salt and water and peripheral constriction. Usually increases stroke volume and rate.
+If stress is maintained, the body decompensates, cyanosis starts, BP drops, edema starts, and AMS.
+[[Shock]] is the state of hypoperfusion as cells go anaerobic, produce lactic acid, make less energy, and glucose impairment raises sugar levels.

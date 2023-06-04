@@ -1,0 +1,1 @@
+Repeated vital and symptoms check, 5 if unstable and 15 if stable.
