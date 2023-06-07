@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b939590a0bf196d1",
+            "id": "3106e86aa9223feb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 8 - Pathophysiology/Acid-Base Balance (patho).md",
+                "file": "Chapter 11 - Airway Management/Airway Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 8 - Pathophysiology/Acid-Base Balance (patho).md",
+                "file": "Chapter 11 - Airway Management/Airway Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 8 - Pathophysiology/Acid-Base Balance (patho).md",
+                "file": "Chapter 11 - Airway Management/Airway Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 8 - Pathophysiology/Acid-Base Balance (patho).md"
+                "file": "Chapter 11 - Airway Management/Airway Basics.md"
               }
             }
           }
@@ -146,41 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b939590a0bf196d1",
+  "active": "b48c8f8b3d959b79",
   "lastOpenFiles": [
-    "Chapter 12 - Principles of Pharmacology/Specific Meds.md",
-    "Chapter 12 - Principles of Pharmacology/Reducing Errors.md",
-    "Chapter 12 - Principles of Pharmacology/Medication Interactions.md",
-    "Chapter 12 - Principles of Pharmacology/Pharmacodynamics.md",
-    "Chapter 12 - Principles of Pharmacology/Routes of Administration.md",
-    "Chapter 12 - Principles of Pharmacology/Drug Classification.md",
-    "Pasted image 20230603183535.jpg",
-    "Chapter 12 - Principles of Pharmacology/Pharmacology Basics.md",
-    "Chapter 11 - Airway Management/Assist ALS Airway.md",
+    "Math/The Formula.md",
+    "Chapter 8 - Pathophysiology/Immune and Inflammatory System.md",
+    "Chapter 8 - Pathophysiology/Pasted image 20230603183535.jpg",
+    "Math/Drips.md",
+    "Chapter 8 - Pathophysiology/Electrolyte Imbalances.md",
+    "Chapter 8 - Pathophysiology/Acid-Base Balance (patho).md",
+    "Chapter 8 - Pathophysiology/Adaptations in Cells.md",
+    "Chapter 8 - Pathophysiology/Cellular Injury.md",
+    "Chapter 7 - Anatomy and Physiology/Endocrine System.md",
+    "Chapter 8 - Pathophysiology/Stress and Disease.md",
+    "Chapter 8 - Pathophysiology/Shock.md",
+    "Chapter 8 - Pathophysiology/MODS.md",
+    "Chapter 7 - Anatomy and Physiology/Blood.md",
+    "Chapter 7 - Anatomy and Physiology/Urinary System.md",
+    "Chapter 7 - Anatomy and Physiology/Organ Systems.md",
+    "Chapter 9 - Life Span Development/Neonates and Infants.md",
+    "Chapter 7 - Anatomy and Physiology/Skeletal System.md",
+    "Chapter 7 - Anatomy and Physiology/Nervous System.md",
+    "Chapter 7 - Anatomy and Physiology/Lymphatic System.md",
+    "Chapter 7 - Anatomy and Physiology/Lower Extremities.md",
+    "Chapter 7 - Anatomy and Physiology/Musculoskeletal System.md",
+    "Chapter 7 - Anatomy and Physiology/Thorax.md",
+    "Chapter 7 - Anatomy and Physiology/Fluid Balance.md",
+    "Chapter 8 - Pathophysiology/Pathophysiology.md",
+    "Chapter 7 - Anatomy and Physiology/Organelles.md",
+    "Chapter 12 - Principles of Pharmacology/Oxygen.md",
     "Chapter 12 - Principles of Pharmacology",
-    "Chapter 11 - Airway Management/Airway Basics.md",
-    "Chapter 11 - Airway Management/Respiration Pathophysiology.md",
-    "Chapter 11 - Airway Management/![[ascii-art.html]].md",
-    "Chapter 11 - Airway Management/Pain.md",
     "Chapter 11 - Airway Management/ascii-art.txt",
     "Chapter 11 - Airway Management/ascii-art.html",
     "ascii-art.html",
-    "Chapter 11 - Airway Management/Intro.md",
     "Chapter 11 - Airway Management",
-    "Chapter 8 - Pathophysiology/Cellular Injury.md",
-    "Chapter 10 - Patient Assessment/Reassessment.md",
-    "Chapter 10 - Patient Assessment/Secondary Assessment.md",
-    "Chapter 10 - Patient Assessment/History Taking.md",
-    "Chapter 10 - Patient Assessment/Primary Survey.md",
-    "Chapter 10 - Patient Assessment/Size Up.md",
-    "Chapter 10 - Patient Assessment/Patient Assessment.md",
-    "Chapter 9 - Life Span Development/Older adult.md",
     "Chapter 10 - Patient Assessment",
-    "Chapter 9 - Life Span Development/Middle adult.md",
-    "Chapter 9 - Life Span Development/Early Adults.md",
-    "Chapter 9 - Life Span Development/Adolescents.md",
-    "Chapter 9 - Life Span Development/School Age Kids.md",
-    "Chapter 9 - Life Span Development/Toddlers and Preschoolers.md",
     "Chapter 9 - Life Span Development",
     "Chapter 8 - Pathophysiology",
     "Chapter 7 - Anatomy and Physiology/Pasted image 20230602150448.jpg",
