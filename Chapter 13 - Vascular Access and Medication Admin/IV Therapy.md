@@ -1,0 +1,3 @@
+IV therapy is one of the most invasive procedures for an [[AEMT]]. Ensure all [[Medication Rights]], and ensure you have an order from medical control to give the medicine (offline or online). Repeat online orders, and make sure it makes sense. **Check for allergies**. 
+
+Check the med's integrity and read the label at least 3 times. Confirm compatibility, monitor the PT, and document the med w/all details.

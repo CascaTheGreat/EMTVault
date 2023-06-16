@@ -1,0 +1,1 @@
+Pull fluid into the vascular compartments, useful in edema.

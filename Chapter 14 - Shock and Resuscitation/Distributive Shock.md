@@ -1,0 +1,1 @@
+Suggested vasodilation(sepsis, spinal injury, OD, anaphylaxis). Warm and flushed skin, no tachycardia.

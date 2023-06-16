@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 11 - Airway Management/Airway Basics.md",
+                "file": "Chapter 19 - Neurologic Emergencies/Seizures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 11 - Airway Management/Airway Basics.md",
+                "file": "Chapter 19 - Neurologic Emergencies/Seizures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 11 - Airway Management/Airway Basics.md",
+                "file": "Chapter 19 - Neurologic Emergencies/Seizures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 11 - Airway Management/Airway Basics.md"
+                "file": "Chapter 19 - Neurologic Emergencies/Seizures.md"
               }
             }
           }
@@ -146,42 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b48c8f8b3d959b79",
+  "active": "3106e86aa9223feb",
   "lastOpenFiles": [
-    "Math/The Formula.md",
-    "Chapter 8 - Pathophysiology/Immune and Inflammatory System.md",
-    "Chapter 8 - Pathophysiology/Pasted image 20230603183535.jpg",
-    "Math/Drips.md",
-    "Chapter 8 - Pathophysiology/Electrolyte Imbalances.md",
-    "Chapter 8 - Pathophysiology/Acid-Base Balance (patho).md",
-    "Chapter 8 - Pathophysiology/Adaptations in Cells.md",
-    "Chapter 8 - Pathophysiology/Cellular Injury.md",
-    "Chapter 7 - Anatomy and Physiology/Endocrine System.md",
-    "Chapter 8 - Pathophysiology/Stress and Disease.md",
-    "Chapter 8 - Pathophysiology/Shock.md",
-    "Chapter 8 - Pathophysiology/MODS.md",
-    "Chapter 7 - Anatomy and Physiology/Blood.md",
-    "Chapter 7 - Anatomy and Physiology/Urinary System.md",
-    "Chapter 7 - Anatomy and Physiology/Organ Systems.md",
-    "Chapter 9 - Life Span Development/Neonates and Infants.md",
-    "Chapter 7 - Anatomy and Physiology/Skeletal System.md",
+    "Chapter 19 - Neurologic Emergencies/Posturing.md",
+    "Chapter 19 - Neurologic Emergencies/AMS.md",
+    "Chapter 19 - Neurologic Emergencies/Seizures.md",
+    "2023-06-15.md",
+    "Chapter 19 - Neurologic Emergencies/Strokes.md",
+    "Chapter 7 - Anatomy and Physiology/Circulatory System.md",
+    "Chapter 18 - Cardiovascular Emergencies/Cardiovascular Anatomy + Physio.md",
+    "Chapter 18 - Cardiovascular Emergencies/Chest Pain Care.md",
+    "Chapter 8 - Pathophysiology/Cardiovascular Pathophysiology.md",
+    "Chapter 19 - Neurologic Emergencies/Neurologic Pathophysiology.md",
+    "Chapter 19 - Neurologic Emergencies/Neurologic Physiology.md",
+    "Chapter 19 - Neurologic Emergencies/faq_q3.gif",
+    "Chapter 19 - Neurologic Emergencies/Neurologic Anatomy.md",
+    "Chapter 18 - Cardiovascular Emergencies/Cardiac Monitoring.md",
+    "Chapter 17 - Respiratory Emergencies/Respiratory Anatomy.md",
+    "Chapter 17 - Respiratory Emergencies/Dyspnea.md",
+    "Chapter 17 - Respiratory Emergencies/Breath Sounds.md",
+    "Chapter 16 - Medical Intro/Types of Medical Emergencies.md",
+    "Chapter 16 - Medical Intro/Infection Terms.md",
     "Chapter 7 - Anatomy and Physiology/Nervous System.md",
-    "Chapter 7 - Anatomy and Physiology/Lymphatic System.md",
-    "Chapter 7 - Anatomy and Physiology/Lower Extremities.md",
-    "Chapter 7 - Anatomy and Physiology/Musculoskeletal System.md",
-    "Chapter 7 - Anatomy and Physiology/Thorax.md",
-    "Chapter 7 - Anatomy and Physiology/Fluid Balance.md",
-    "Chapter 8 - Pathophysiology/Pathophysiology.md",
-    "Chapter 7 - Anatomy and Physiology/Organelles.md",
-    "Chapter 12 - Principles of Pharmacology/Oxygen.md",
+    "Chapter 7 - Anatomy and Physiology/Nervous System Breathing Control.md",
+    "Chapter 19 - Neurologic Emergencies",
+    "Chapter 18 - Cardiovascular Emergencies/Pasted image 20230614202323.jpg",
+    "Chapter 8 - Pathophysiology/Hypoperfusion.md",
+    "Chapter 12 - Principles of Pharmacology/Specific Meds.md",
+    "Chapter 18 - Cardiovascular Emergencies",
+    "Chapter 8 - Pathophysiology/Acid-Base Balance (patho).md",
+    "Chapter 17 - Respiratory Emergencies",
+    "Chapter 14 - Shock and Resuscitation/Shock.md",
+    "Chapter 16 - Medical Intro",
+    "Chapter 14 - Shock and Resuscitation/Cardiogenic Shock.md",
+    "Chapter 14 - Shock and Resuscitation/Obstructive Shock.md",
+    "Chapter 14 - Shock and Resuscitation",
+    "Chapter 13 - Vascular Access and Medication Admin",
+    "Chapter 8 - Pathophysiology/Pasted image 20230603183535.jpg",
     "Chapter 12 - Principles of Pharmacology",
     "Chapter 11 - Airway Management/ascii-art.txt",
     "Chapter 11 - Airway Management/ascii-art.html",
     "ascii-art.html",
-    "Chapter 11 - Airway Management",
-    "Chapter 10 - Patient Assessment",
-    "Chapter 9 - Life Span Development",
-    "Chapter 8 - Pathophysiology",
     "Chapter 7 - Anatomy and Physiology/Pasted image 20230602150448.jpg",
     "Chapter 7 - Anatomy and Physiology/Pasted image 20230602181050.jpg",
     "Chapter 7 - Anatomy and Physiology/Pasted image 20230602180617.png",
@@ -189,10 +194,6 @@
     "Chapter 7 - Anatomy and Physiology/21823-eye-anatomy.webp",
     "Chapter 7 - Anatomy and Physiology/Human-circulatory-system.webp",
     "Circulatory_System_en.svg",
-    "Chapter 7 - Anatomy and Physiology/Cross-section-human-heart.webp",
-    "Pasted image 20230602150510.png",
-    "Math",
-    "Chapter 7 - Anatomy and Physiology",
     "Untitled.canvas"
   ]
 }

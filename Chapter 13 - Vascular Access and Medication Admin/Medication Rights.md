@@ -1,0 +1,9 @@
+ - Right patient
+ - Right medication
+ - Right dose
+ - Right route
+ - Right time
+ - Right education
+ - Right to refuse
+ - Right response and eval
+ - Right documentation

@@ -1,0 +1,2 @@
+Any number of factors can affect the neurologic system. When blood flow stops, the patient enters a **coma** and irreversible brain damage can occur quickly.![[faq_q3.gif]]
+When the problem is within the brain (bad flow to only one side), symptoms can present unilaterally. Hypoxia can cause anxiety, confusion, and restlessness. Hypoglycemia can be as mild as slight [[AMS]] to [[Strokes|stroke-like]].

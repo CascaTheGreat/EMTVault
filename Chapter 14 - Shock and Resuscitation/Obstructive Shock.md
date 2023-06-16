@@ -1,0 +1,1 @@
+Presents with/like cardiac tamponade, tension pneumo or pulmonary embolism.

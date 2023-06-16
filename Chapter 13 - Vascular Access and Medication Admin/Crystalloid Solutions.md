@@ -1,0 +1,1 @@
+Solutions w/ crystals in them designed to replace fluids in the body. **3mL of isotonic crystalloid solution is needed to replace 1mL of blood.**

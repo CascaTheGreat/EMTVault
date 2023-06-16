@@ -1,0 +1,1 @@
+C/O chest pain, dyspnea and tachycardia. Often JVD and rales, caused by 40+% myocardium loss.
