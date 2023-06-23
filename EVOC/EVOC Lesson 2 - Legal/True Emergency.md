@@ -1,0 +1,1 @@
+High probability of death or serious injury, where operator could reduce severity.

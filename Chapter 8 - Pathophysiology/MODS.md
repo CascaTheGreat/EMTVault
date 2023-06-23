@@ -1,4 +1,4 @@
-**Multiple organ dysfunction syndrome** is novel concurrent failure of multiple organs or systems. Mods asesses the [[Respiratory System]],[[Circulatory System]], [[Digestive System]], and [[Nervous System]].
+**Multiple organ dysfunction syndrome** is novel concurrent failure of multiple organs or systems. Mods assesses the [[Respiratory System]],[[Circulatory System]], [[Digestive System]], and [[Nervous System]].
 Major cause of death after sepsis, trauma, and burns with mortality rate of up to 75%. Primary MODS is directly caused by injury, secondary is more chronic and is caused by inflammatory response.
 
 In secondary MODS, the kallikrein-kinin system activates. Kallikrein, made by the pancreas, dilates vessels, modulates diuretic functions, and influences cardiac remodeling. Bradykinin dilates vessels, contracts smooth muscles, and hurts like a mf when injected. Often develops hours or days after resuscitation.

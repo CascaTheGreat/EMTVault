@@ -1,0 +1,1 @@
+How a reasonably careful person doing the same thing in the same context would act.

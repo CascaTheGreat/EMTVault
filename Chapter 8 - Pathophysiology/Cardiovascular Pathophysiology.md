@@ -4,7 +4,7 @@ Heart-related chest pain is usually due to **ischemia**, where blood flow is dec
 
 **Thromboembolism** is a clot that blocks blood flow. If it occurs in a coronary artery, this is an **acute myocardial infarction**. **Acute coronary syndrome** are the symptoms present in myocardial ischemia (decreased heart blood flow). Could be angina pectoris or AMI. 
 
-**Angina** has no rhythm change, often when increased stress that dissipates when stress stops.  Pain is crushing, radiates to back, arms, or jaw, but doesn't mean damage is occurring. Rarely lasts more than 15 minutes, presents w nausea, sweating, dyspnea. 
+**Angina** has no rhythm change, often when increased stress that dissipates when stress stops. Pain is crushing, radiates to back, arms, or jaw, but doesn't mean damage is occurring. Rarely lasts more than 15 minutes, presents w nausea, sweating, dyspnea. 
 
 AMI starts gradual, builds to severe, preceded by nausea, weakness, sweating and indigestion.
 

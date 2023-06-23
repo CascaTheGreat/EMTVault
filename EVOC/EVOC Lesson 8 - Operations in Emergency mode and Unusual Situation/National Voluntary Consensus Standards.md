@@ -1,0 +1,13 @@
+- Siren to wail mode 300 feet before intersection
+- Siren to yelp mode 150 feet prior to intersection
+- Brake to stop at the crosswalk
+- Two blasts of air horn
+- Stop, look, and make eye contact (you may go 10mph if traffic is topped in all lanes)
+- Keep yelp and proceed carefully
+- Clear each lane before crossing
+- Anticipate vehicles from left and right
+- Anticipate multiple responding units
+- Avoid passing stopped vehicles on their right
+- Turn right after drivers there are aware of you
+- Anticipate left turn in front of ambulance by oncoming traffic
+- Beware other intersection hazards

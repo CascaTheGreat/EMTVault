@@ -1,0 +1,1 @@
+Signal well in advance and maintain looking 12 seconds ahead. If lane is clear after signaling for at least 3 seconds, smoothly change lanes. Make sure to check your blind spot.

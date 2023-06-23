@@ -1,1 +1,1 @@
-Pull fluid into the vascular compartments, useful in edema.
+Pull fluid into the vascular compartments, useful in edema. Uses complex molecules like protein or sugars, not carried by us.
