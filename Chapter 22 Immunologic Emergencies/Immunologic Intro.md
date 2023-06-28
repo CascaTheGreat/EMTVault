@@ -1,0 +1,1 @@
+50+ million Americans experience an allergic reaction annually, maintain airways and prepare to treat cardiovascular collapse. Be able to distinguish an **allergic reaction**, which is the exaggerated response to a substance that may need epinephrine, or **anaphylaxis**, which involves more body systems and is real dangerous.

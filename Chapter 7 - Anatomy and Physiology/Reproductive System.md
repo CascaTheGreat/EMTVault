@@ -7,4 +7,6 @@ The female reproductive system include the ovaries, fallopian tubes, uterus, cer
 
 External genitalia is the **vulva**. **Labia minora** is skin folds that border the vestibule, which contains vaginal and urethral opening, plus the **clitoris**. Labia minora meet over clitoris, forming the **prepuce**. **Labia majora** are outside it and meet at the **mons pubis**. During the **menstrual cycle**, an ovum matures and ruptures the ovary's surface, if not fertilized, the **corpus luteum**(ovum remnants) shed with the uterine lining. This begins with **menarche** and ends with **menopause**, with the lining thickening and then shedding in **menstruation**. Average cycle is 28 days with day one being the first day of flow. Various hormones like GnRH, FSH, LH, estrogen, and progesterone stimulate uterine lining at different stages.
 
+![[9118-female-reproductive-system.webp]]
+
 **Mammary glands** are modified sweat glands that produce milk, **areolar glands** make secretions to protect the nipple and areola in nursing.

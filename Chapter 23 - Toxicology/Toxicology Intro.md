@@ -1,0 +1,1 @@
+Drugs are either **licit** or **illicit**. **Poisons** are toxic regardless of quantity or route, drugs have effect when given in the right quantity and dose but can cause an **overdose** if consumed incorrectly.

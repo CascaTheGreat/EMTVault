@@ -1,0 +1,2 @@
+Look for clues towards intake route, like stained fingers, needles, or other physical clues nearby. 
+Absorption presents with history of exposure, substance on skin, burns, itching or irritation. Dilute the contaminant.
