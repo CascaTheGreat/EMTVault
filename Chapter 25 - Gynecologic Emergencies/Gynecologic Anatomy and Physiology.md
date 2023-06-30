@@ -3,4 +3,4 @@ The clitoris is covered by the **prepuce**, the small space at the beginning of 
 
 ### Physiology
 The menstrual cycle is driven by monthly hormone. If no fertilized egg implants in the uterus, the uterine lining sheds (roughly every 28 days). Initial onset is **menarche**, cessation is **menopause**. **Premenstrual syndrome** occurs 7-14 days before onset of flow (fluid retention, breast pain, headache, cramping, emotional changes)
-**Amenorrhea** is the absences of stopping of menses (time of menstruation). Common in athletes, or when body fat is low, or by stress.
+**Amenorrhea** is the absences of menses (time of menstruation). Common in athletes, or when body fat is low, or by stress.

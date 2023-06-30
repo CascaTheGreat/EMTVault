@@ -32,7 +32,7 @@ Psychotherapeutic drugs block dopamine receptors. Treats schizophrenia, but ofte
 
 **Chronotropics** affect the heart rate, **inotropics**, change the force of contraction, **dromotropics** affect the velocity of electric conduction in the heart. Positive raise function, negative decrease.
 
-**Cardiac glycosides** block ionic pumps in hear cells. Rare use and tons of side effects.
+**Cardiac glycosides** block ionic pumps in heart cells. Rare use and tons of side effects.
 
 **Antidysrhythmic medications** treat dysrhythmias. Some are negative dromotropics(sodium and calcium channel blockers), and reduce adrenergic stimulation (beta blockers), some are positive inotropics (potassium channel blockers).
 

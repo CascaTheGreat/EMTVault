@@ -1,0 +1,2 @@
+The three concepts of energy assoicated with injury are **potential energy**, **kinetic energy**, and the energy of **work**. **Mechanical energy** is made of potential and kinetic energy.
+**Kinetics** studies the relationship between speed, mass, direction, and the injuries created by them.

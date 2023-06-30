@@ -29,7 +29,7 @@ Seizure that 4-5+ minutes or repeat episodes where responsiveness doesn't return
 Disorders like epilepsy are congenital, others are caused by fevers, structural problems, or metabolic problems. Epileptic seizures can be controlled by meds (phenytoin, phenobarbital, carbamazepine, gabapentin), most seizures are result of not taking meds.
 **Febrile seizures** are caused
 
-Postictal state by present with **hemiparesis**, unilateral weakness mimicking [[Strokes|a stroke]].
+Postictal state present with **hemiparesis**, unilateral weakness mimicking [[Strokes|a stroke]].
 
 ### Treatment
 Keep the airway patent, suction if possible, consider airway intervention, place in recovery to keep secretions from the airway. Don't put shit in their mouth. **Trismus** or teeth clench needs sedation, call paramedics early if PT has a difficult airway. Place PT paralyzed side down and padded, elevating head 6 in.

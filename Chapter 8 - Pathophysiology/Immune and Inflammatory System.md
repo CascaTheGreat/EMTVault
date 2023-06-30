@@ -27,7 +27,7 @@ Pain swelling, redness, heat, works independent of immune but often at same time
 
 **Plasma protein systems** modulate the inflammatory process. Covers the complement system, coagulation, and kinin systems.
 
-Cells try to get **polymorphonuclear neutrophils**  to needed tissue, leukocytes move to sides of blood vessels in intravascular and leave it in extravascular.
+Cells try to get **polymorphonuclear neutrophils** to needed tissue, leukocytes move to sides of blood vessels in intravascular and leave it in extravascular.
 1. Margination
 2. Activation
 3. Adhesion
