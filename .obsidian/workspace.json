@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 33 - Orthopaedic Injuries/Orthopedic Pathophysiology.md",
+                "file": "Chapter 9 - Life Span Development/Neonates and Infants.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 33 - Orthopaedic Injuries/Orthopedic Pathophysiology.md",
+                "file": "Chapter 9 - Life Span Development/Neonates and Infants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 33 - Orthopaedic Injuries/Orthopedic Pathophysiology.md",
+                "file": "Chapter 9 - Life Span Development/Neonates and Infants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 33 - Orthopaedic Injuries/Orthopedic Pathophysiology.md"
+                "file": "Chapter 9 - Life Span Development/Neonates and Infants.md"
               }
             }
           }
@@ -148,43 +148,44 @@
   },
   "active": "2367ceebcebd3c16",
   "lastOpenFiles": [
+    "Chapter 9 - Life Span Development/Toddlers and Preschoolers.md",
+    "Chapter 9 - Life Span Development/Adolescents.md",
+    "Chapter 7 - Anatomy and Physiology/Pelvic Girdle.md",
+    "Chapter 7 - Anatomy and Physiology/Joints.md",
+    "Chapter 7 - Anatomy and Physiology/Long Bones.md",
+    "Chapter 13 - Vascular Access and Medication Admin/-tonic Solutions.md",
+    "Chapter 7 - Anatomy and Physiology/Blood.md",
+    "Chapter 7 - Anatomy and Physiology/Cell Membrane.md",
+    "Chapter 7 - Anatomy and Physiology/Abdomen.md",
+    "Chapter 17 - Respiratory Emergencies/Breath Sounds.md",
+    "Chapter 7 - Anatomy and Physiology/Spine.md",
+    "Chapter 35 - Obstetrics and Neonatal Care/Pathophysiology of Pregnancy.md",
+    "Chapter 35 - Obstetrics and Neonatal Care/Patient Assessment.md",
+    "Chapter 35 - Obstetrics and Neonatal Care/Gestation.md",
+    "Chapter 35 - Obstetrics and Neonatal Care/Obstetric Anatomy.md",
+    "EKGs/EKG Chapter 4/Electrical Conduction System.md",
+    "Chapter 35 - Obstetrics and Neonatal Care",
+    "EKGs/EKG Chapter 4/Pasted image 20230705143431.jpg",
+    "Chapter 34 - Environmental Emergencies/Bites and Envenomations.md",
+    "EKGs/EKG Chapter 5",
+    "EKGs/EKG Chapter 4",
+    "EKGs",
+    "Chapter 34 - Environmental Emergencies/Reverse Triage.md",
+    "Chapter 34 - Environmental Emergencies/Water Emergencies.md",
+    "Chapter 34 - Environmental Emergencies/Heat Exposure.md",
+    "Chapter 34 - Environmental Emergencies/Cold Exposure.md",
+    "Chapter 34 - Environmental Emergencies/Exposure Factors.md",
+    "Chapter 33 - Orthopaedic Injuries/Orthopedic Pathophysiology.md",
     "Chapter 34 - Environmental Emergencies",
     "Chapter 33 - Orthopaedic Injuries/Six Ps of Musculoskeletal Assessment.md",
-    "Chapter 33 - Orthopaedic Injuries/Orthopedic Pathophysiology.md",
     "Chapter 33 - Orthopaedic Injuries/Orthopedic Injury Anatomy.md",
     "Chapter 32 - Abdominal and Genitourinary Injuries/Abdominal Injury Pathophysiology.md",
     "Chapter 33 - Orthopaedic Injuries",
-    "Chapter 32 - Abdominal and Genitourinary Injuries/Abdominal Injury Anatomy.md",
-    "Chapter 20 - Gastrointestinal and Urologic Emergencies/GI Anatomy.md",
-    "Chapter 31 - Chest Injuries/Chest Injury Pathophysiology.md",
     "Chapter 32 - Abdominal and Genitourinary Injuries",
-    "Chapter 31 - Chest Injuries/Chest Injury Anatomy and Physiology.md",
-    "Chapter 30 - Head and Spine Injuries/Spinal Trauma Transport Considerations.md",
     "Chapter 31 - Chest Injuries",
-    "Chapter 30 - Head and Spine Injuries/Head and Spinal Pathophysiology.md",
-    "Chapter 30 - Head and Spine Injuries/Spinal Anatomy and Physiology.md",
-    "Chapter 7 - Anatomy and Physiology/Nervous System.md",
-    "Chapter 29 - Face and Neck Injuries/Facial Anatomy and Pathophysiology.md",
     "Chapter 30 - Head and Spine Injuries",
-    "Chapter 7 - Anatomy and Physiology/Skull.md",
-    "Chapter 7 - Anatomy and Physiology/Axial Skeleton.md",
-    "Chapter 28 - Soft Tissue Injuries/Burns.md",
     "Chapter 29 - Face and Neck Injuries",
-    "Chapter 28 - Soft Tissue Injuries/Emergency Soft Tissue Injury Care.md",
-    "Chapter 28 - Soft Tissue Injuries/Pathophysiology of Soft Tissue Injuries.md",
-    "Chapter 28 - Soft Tissue Injuries/Soft Tissue Anatomy and Physiology.md",
-    "Chapter 7 - Anatomy and Physiology/Integumentary System.md",
-    "Chapter 7 - Anatomy and Physiology/Anatomy.md",
-    "Chapter 27 - Bleeding/Emergency Medical Care.md",
-    "Chapter 28 - Soft Tissue Injuries",
-    "Chapter 26 - Trauma Overview/Trauma Lethal Triad.md",
-    "Chapter 27 - Bleeding/Pathophysiology of Bleeding.md",
-    "Chapter 27 - Bleeding/Physiology and Perfusion.md",
-    "Chapter 27 - Bleeding",
-    "Chapter 26 - Trauma Overview",
     "Chapter 7 - Anatomy and Physiology/9118-female-reproductive-system.webp",
-    "Chapter 25 - Gynecologic Emergencies",
-    "Chapter 24 - Psychiatric Emergencies",
     "Chapter 18 - Cardiovascular Emergencies/Pasted image 20230614202323.jpg",
     "Chapter 19 - Neurologic Emergencies/faq_q3.gif",
     "Chapter 8 - Pathophysiology/Pasted image 20230603183535.jpg",
@@ -193,7 +194,6 @@
     "Chapter 7 - Anatomy and Physiology/Pasted image 20230602180617.png",
     "abdominal-organs-1296x800-header-1024x638.webp",
     "Chapter 7 - Anatomy and Physiology/21823-eye-anatomy.webp",
-    "Chapter 7 - Anatomy and Physiology/Human-circulatory-system.webp",
     "Untitled.canvas"
   ]
 }

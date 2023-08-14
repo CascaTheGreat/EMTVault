@@ -1,0 +1,1 @@
+In the event of a lightning strike, patients who are alert are far less likely to go into any kind of arrest. Focus efforts on those who are in arrest.

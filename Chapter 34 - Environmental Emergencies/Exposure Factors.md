@@ -1,0 +1,3 @@
+The work to balance between heat production and excretion is **thermoregulation**. A rise in temperature raises heat loss and stops production, a decrease in temperatures lowers heat loss and raises production. Creating heat is **thermogenesis**, giving it off is **thermolysis**. 
+
+The factors affecting exposure include physical condition, age, nutrition, and the environment. Already ill patients, children and elderly patients, and malnourished patients will be at higher risk for exposure injuries. Additionally, it is rarer for exposure injuries to exist without corresponding extreme conditions.
